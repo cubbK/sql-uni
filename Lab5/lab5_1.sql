@@ -1,0 +1,4 @@
+select * from ANGAJATI;
+
+select NUME, PRENUME from ANGAJATI;
+select NUME, PRENUME, SALARIUL from ANGAJATI;
