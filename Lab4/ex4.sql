@@ -7,3 +7,7 @@ ALTER TABLE personal
   );
 
 ALTER TABLE personal MODIFY email INTEGER;
+
+ALTER TABLE personal
+DROP COLUMN email;
+
